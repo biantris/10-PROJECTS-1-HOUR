@@ -15,7 +15,7 @@
 https://www.youtube.com/watch?v=8GPPJpiLqHk
 
 
-**1. Hamburger Button**
+**1. Hamburger Button**🍔
 
  button + hamburger icon
  
@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  animation
 
-**2. Toast Notification**
+**2. Toast Notification**⚠️
 
  toast container floating
  
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  click show random toast message
 
-**3. Auto Write Text**
+**3. Auto Write Text**📝
 
  text
  
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  increment index
 
-**4. Popup / Modal**
+**4. Popup / Modal**🗨️
 
  button
  
@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  close btn popup with click event
 
-**5. Purple Heart Rain**
+**5. Purple Heart Rain**💜
 
  heart css
  
@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  interval
 
-**6. Background Changer**
+**6. Background Changer**🌈
 
  button w/ click
  
@@ -79,7 +79,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  change bg color on click
 
-**7. Dark mode toggle**
+**7. Dark mode toggle**💡
 
  text
  
@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  toggle event
 
-**8. Carousel**
+**8. Carousel**🎠
 
  3/4 images
  
@@ -103,7 +103,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  automatic switch index and update container transform property
 
-**9. Sound Board**
+**9. Sound Board**🔊
 
  sounds (HAVE THESE READY SIR)
  
@@ -115,7 +115,7 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk
  
  play sound on click
 
-**10. Zoom effect**
+**10. Zoom effect**🔍
 
  image
  
