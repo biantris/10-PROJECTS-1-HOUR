@@ -11,8 +11,7 @@ function run() {
         idx = 0;
     }
 
-    img.style.transform = `translateX(${-idx * 500}px)`;
-
+    imgs.style.transform = `translateX(${-idx * 500}px)`;
 }
 
 setInterval(run, 2000);
